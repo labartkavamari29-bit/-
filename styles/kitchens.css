@@ -637,6 +637,7 @@ body {
 }
 .kitchens .kitchen .kitchen-top .kitchen-card {
   height: 430px;
+  position: relative;
 }
 .kitchens .kitchen .kitchen-top .kitchen-card img {
   width: 430px;
@@ -881,6 +882,7 @@ body {
 }
 .kitchens .kitchen .kitchen-bottom .kitchen-card {
   height: 430px;
+  position: relative;
 }
 .kitchens .kitchen .kitchen-bottom .kitchen-card img {
   width: 430px;
